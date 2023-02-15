@@ -1,0 +1,40 @@
+filename	ATTRIBUTE_SampleType	ATTRIBUTE_organism_family	ATTRIBUTE_organism_genus	ATTRIBUTE_organism_species	ATTRIBUTE_organism_organ
+VGF138_B07_pos.mzML	sample	Ranunculaceae	Thalictrum	Thalictrum foliolosum	multiple
+VGF139_A03_pos.mzML	sample	Menispermaceae	Stephania	Stephania rotunda	roots
+VGF139_C08_pos.mzML	sample	Menispermaceae	Tinospora	Tinospora baenzigeri	multiple
+VGF142_A08_pos.mzML	sample	Ranunculaceae	Clematis	Clematis brevicaudata	green stems
+VGF142_B08_pos.mzML	sample	Ranunculaceae	Clematis	Clematis chrysocoma	roots
+VGF142_B09_pos.mzML	sample	Ranunculaceae	Coptis	Coptis omeiensis	roots
+VGF142_C08_pos.mzML	sample	Ranunculaceae	Clematis	Clematis chrysocoma	leaves
+VGF142_C09_pos.mzML	sample	Ranunculaceae	Coptis	Coptis omeiensis	green stems
+VGF142_D06_pos.mzML	sample	Ranunculaceae	Eriocapitella	Eriocapitella rivularis	multiple
+VGF142_D07_pos.mzML	sample	Ranunculaceae	Clematis	Clematis apiifolia	leaves
+VGF142_D08_pos.mzML	sample	Ranunculaceae	Clematis	Clematis meyeniana	leaves
+VGF142_D09_pos.mzML	sample	Ranunculaceae	Coptis	Coptis omeiensis	leaves
+VGF142_E06_pos.mzML	sample	Berberidaceae	Berberis	Berberis wangii	leaves
+VGF142_E07_pos.mzML	sample	Ranunculaceae	Clematis	Clematis apiifolia	roots
+VGF142_E08_pos.mzML	sample	Ranunculaceae	Clematis	Clematis meyeniana	roots
+VGF142_F06_pos.mzML	sample	Berberidaceae	Berberis	Berberis wangii	roots
+VGF142_F07_pos.mzML	sample	Ranunculaceae	Clematis	Clematis apiifolia	green stems
+VGF142_F08_pos.mzML	sample	Ranunculaceae	Clematis	Clematis meyeniana	green stems
+VGF142_G06_pos.mzML	sample	Berberidaceae	Berberis	Berberis wangii	green stems
+VGF142_G07_pos.mzML	sample	Ranunculaceae	Clematis	Clematis brevicaudata	leaves
+VGF142_H07_pos.mzML	sample	Ranunculaceae	Clematis	Clematis brevicaudata	roots
+VGF143_A06_pos.mzML	sample	Ranunculaceae	Thalictrum	Thalictrum delavayi	green stems
+VGF143_G05_pos.mzML	sample	Ranunculaceae	Thalictrum	Thalictrum delavayi	leaves
+VGF143_G10_pos.mzML	sample	Lardizabalaceae	Stauntonia	Stauntonia brunoniana	roots
+VGF143_H05_pos.mzML	sample	Ranunculaceae	Thalictrum	Thalictrum delavayi	roots
+VGF144_E02_pos.mzML	sample	Berberidaceae	Berberis	Berberis julianae	roots
+VGF144_F02_pos.mzML	sample	Berberidaceae	Berberis	Berberis julianae	green stems
+VGF144_G02_pos.mzML	sample	Berberidaceae	Berberis	Berberis julianae	leaves
+VGF145_C06_pos.mzML	sample	Ranunculaceae	Clematis	Clematis chrysocoma	green stems
+VGF147_B10_pos.mzML	sample	Lardizabalaceae	Stauntonia	Stauntonia brunoniana	leaves
+VGF147_C07_pos.mzML	sample	Lardizabalaceae	Stauntonia	Stauntonia brunoniana	woody stems
+VGF147_D04_pos.mzML	sample	Menispermaceae	Pachygone	Pachygone odorifera	leaves
+VGF147_F03_pos.mzML	sample	Menispermaceae	Pachygone	Pachygone odorifera	woody stems
+VGF147_H06_pos.mzML	sample	Menispermaceae	Pachygone	Pachygone odorifera	roots
+VGF150_F03_pos.mzML	sample	Papaveraceae	Argemone	Argemone mexicana	fruits
+VGF150_G03_pos.mzML	sample	Papaveraceae	Argemone	Argemone mexicana	multiple
+VGF155_A03_pos.mzML	sample	Menispermaceae	Coscinium	Coscinium fenestratum	green stems
+VGF156_E11_pos.mzML	sample	Menispermaceae	Stephania	Stephania venosa	multiple
+VGF155_A12_pos.mzML	blank				
